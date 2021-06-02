@@ -32,28 +32,27 @@ export default {
                     imgLeft     : true,
                     itemColor   : '#30C3DC',
                     itemImgSrc  : require('../../assets/img/11.jpg'),
-                    itemTitle   : `顶级库房分布式云平台`,
-                    itemText    : `顶级库房大流量关系云平台 , 对仓储各环节实施全过程控制管理，并可对货物进行货位、批次、保质期、配送等实现条形码标签序列号管理，对整个收货、发货、补货、集货、送货等各个环节的规范化作业 ，解决库房信息陈旧滞后的弊病`
+                    itemTitle   : `智慧云仓平台`,
+                    itemText    : `顶级库房大流量关系云平台 , 对仓储各环节实施全过程控制管理，并可对货物进行货位、批次、保质期、配送等实现条形码标签序列号管理，解决库房信息陈旧滞后的弊病`
                 }, {
                     imgLeft     : false,
                     itemColor   : '#6574BB',
                     itemImgSrc  : require('../../assets/img/09.jpg'),
-                    itemTitle   : `大数据高危道路预警平台`,
-                    itemText    : `高危事件预警平台利用交通多年来的大数据底蕴，实现对辖区 省区 市区等多地段高危事件预警，
-                                    事件防范，应急处置`
+                    itemTitle   : `大数据道路预警平台`,
+                    itemText    : `高危事件预警平台利用交通多年来的大数据底蕴，实现对辖区 市区等多地段高危事件预警，
+                                    防范，应急处置,人员车辆调度`
                 }, {
                     imgLeft     : true,
                     itemColor   : '#343A48',
                     itemImgSrc  : require('../../assets/img/10.jpg'),
-                    itemTitle   : `一玛贵州`,
-                    itemText    : `吃喝玩乐尽在一玛贵州 一玛在手 贵州我有 打造涵盖多方面便民服务小程序商城 集成多攻略，
-                                   方案 给你全新体验 `
+                    itemTitle   : `我们的服务`,
+                    itemText    : `电商、移动办公OA、社交通讯、儿童教育、社区服务平台、信息管理等各类手机应用不限于以上服务,其他技术咨询、技术交流更多需求，请联系我们，专业团队为您服务 `
                 }, {
                     imgLeft     : false,
                     itemColor   : '#6574BB',
                     itemImgSrc  : require('../../assets/img/works_1.png'),
-                    itemTitle   : `查看更多`,
-                    itemText    : `···`
+                    itemTitle   : `方案合理、质量可靠、交付准时、服务贴心`,
+                    itemText    : `以上百家成功案例经验，量身定制合理的开发方案；遵照高质量流程体系，精细打磨产品每一个细节； 经过我们的努力，给用户带来即舒适又美观的体验，同时又能章显其商业价值~`
                 }
             ],
             // 行业方案
