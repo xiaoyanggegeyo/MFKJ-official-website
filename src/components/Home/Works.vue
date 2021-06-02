@@ -51,7 +51,7 @@ export default {
                     imgLeft     : false,
                     itemColor   : '#6574BB',
                     itemImgSrc  : require('../../assets/img/works_1.png'),
-                    itemTitle   : `方案合理、质量可靠、交付准时、服务贴心`,
+                    itemTitle   : `团队介绍`,
                     itemText    : `以上百家成功案例经验，量身定制合理的开发方案；遵照高质量流程体系，精细打磨产品每一个细节； 经过我们的努力，给用户带来即舒适又美观的体验，同时又能章显其商业价值~`
                 }
             ],
